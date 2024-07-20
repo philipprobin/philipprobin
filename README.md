@@ -9,6 +9,8 @@ I'm a Software Developer with interests in AI, Entrepreneurship, Languages, and 
 - **SparMahl**: Aiming to transform the meal planning and grocery shopping experience by making it both exciting and economical.
 - **Flashlate**: A language-learning application designed to enhance vocabulary acquisition. It provides users with predefined decks of common words, conjugations, translations, and a dedicated learning mode.
 - **GreenPots**: An automated plant pot, to grow your greens, without worring about the right. GreenPots automates you the whole process of watering, so that you can lean back.
+- **NewsOnFly**: An AI-generated podcast that covers the latest news on different topics on [Spotify](https://open.spotify.com/show/65RQ0Fel4cmth3QYv1Ubsv)
+
 
 ## 📊 My Skill Set
 
