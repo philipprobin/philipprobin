@@ -5,7 +5,7 @@
 I'm a Software Developer with interests in AI, Entrepreneurship, Languages, and Chess. Currently, I am expanding my knowledge in Applied Computer Science at Ruhr Universität Bochum. Additionally, I am the Co-Founder of **SparMahl**, an innovative startup that utilizes supermarket offers to create delightful recipes.
 
 ### 🚀 What I'm Working On
-
+- **SemanticMap**: Revolutionizing qualitative market research with AI-powered analysis of audio and text data. [Learn more](https://semanticmap.com)
 - **SparMahl**: Aiming to transform the meal planning and grocery shopping experience by making it both exciting and economical.
 - **Flashlate**: A language-learning application designed to enhance vocabulary acquisition. It provides users with predefined decks of common words, conjugations, translations, and a dedicated learning mode.
 - **GreenPots**: An automated plant pot, to grow your greens, without worring about the right. GreenPots automates you the whole process of watering, so that you can lean back.
