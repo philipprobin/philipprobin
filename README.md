@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Software Developer with interests in AI, Entrepreneurship, Languages, and Chess. Currently, I am expanding my knowledge in Applied Computer Science at Ruhr Universität Bochum. Additionally, I am the Co-Founder of **SparMahl**, an innovative startup that utilizes supermarket offers to create delightful recipes.
+I'm a Software Developer with interests in AI, Entrepreneurship, Languages, and Chess. Currently, I am expanding my knowledge in Applied Computer Science at Ruhr Universität Bochum. Additionally, I am the Co-Founder of **SparMahl**, an innovative startup that utilizes supermarket offers to create delightful recipes and Co-Founder of **SemanticMap** an AI-powered analysis tool of audio and text data for qualitative market research.
 
 ### 🚀 What I'm Working On
 - **SemanticMap**: Revolutionizing qualitative market research with AI-powered analysis of audio and text data. [Learn more](https://semanticmap.com)
